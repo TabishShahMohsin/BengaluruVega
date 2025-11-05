@@ -1,0 +1,9 @@
+pandas
+numpy
+pyarrow
+h3
+shapely
+pyproj
+networkx  # CRITICAL: Needed for nx.shortest_path and graph operations
+osmnx     # CRITICAL: Needed for ox.nearest_nodes and ox.load_graphml
+scikit-learn 
