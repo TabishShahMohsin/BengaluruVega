@@ -1,0 +1,14 @@
+pandas
+numpy
+h3==4.0.0b1
+networkx
+osmnx
+shapely
+pyproj
+pyarrow
+xgboost
+math
+geopy
+tqdm
+scikit-learn
+fastparquet
